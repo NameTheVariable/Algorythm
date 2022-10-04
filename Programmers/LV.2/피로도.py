@@ -1,4 +1,7 @@
-def dfs(k, cnt, dungeons, temp):
+answer = 0
+
+
+def backtracker(k, cnt, dungeons, temp):
     global answer
     if cnt > answer:
         answer = cnt
@@ -6,11 +9,12 @@ def dfs(k, cnt, dungeons, temp):
     for i in range(len(dungeons)):
         if not temp[i] and k >= dungeons[i][0]:
             temp[i] = True
+            backtracker(k - dungeons[i][1], cnt + 1, dungeons, temp)
+            temp[i] = False
 
 
 def solution(k, dungeons):
-    answer = -1
-    temp = []
-    for i in range(len(dungeons)):
-        ...
+    global answer
+    temp = [False] * len(dungeons)
+    backtracker(k, 0, dungeons, temp)
     return answer
