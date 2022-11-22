@@ -37,9 +37,23 @@ E
 Baekjoon/Gold/9663.py,8\5\854e8f705801ee914bb10aee480bc58ecf48d472
 M
 Programmers/LV.2/피로도.py,f\a\faa4b7dab9a45cfc76d02125110827cfee4b11b0
+H
+Programmers/LV.1/init.py,2\6\26a86dcef54c893db5d66c7911dcd4cbb4e1f610
+M
+Programmers/LV.2/후보키.py,f\f\ffc5bbd72467c8f57ee4164297f4e6f4dd22b97d
+Q
+!Programmers/LV.2/n진수게임.py,a\6\a6747d255af308fb2772ddff7266cd64072e591a
+R
+"Programmers/LV.2/romanToInteger.py,9\c\9c749e2c2e7f9526fc340ea3139d96cf462ecade
+S
+#Programmers/LV.2/삼각달팽이.py,3\4\3464d3a166e783771b519b9c02ad9fe8a5e92688
 J
 Programmers/LV.1/words.txt,a\0\a060fc66e666f29bbfad0d4145110fc62dd19800
 X
 (Programmers/LV.2/단체사진 찍기.cpp,c\8\c8c733913619063268e96077466dcd3f0b8a11ea
-H
-Programmers/LV.1/init.py,2\6\26a86dcef54c893db5d66c7911dcd4cbb4e1f610
+[
++Programmers/LV.2/숫자 카드 나누기.py,a\e\aea5a4c99e05e8b4e9aeff0bcbe8413f9fd6bd8f
+P
+ Programmers/LV.2/조이스틱.py,4\6\464693d8bdddeb723ba9f351d6af8d5a1345edfa
+Z
+*Programmers/LV.2/조이스틱_타풀이.py,3\0\3021b086d26b7ed5f640e38f783e51dcc98a1a63
