@@ -57,3 +57,7 @@ P
  Programmers/LV.2/조이스틱.py,4\6\464693d8bdddeb723ba9f351d6af8d5a1345edfa
 Z
 *Programmers/LV.2/조이스틱_타풀이.py,3\0\3021b086d26b7ed5f640e38f783e51dcc98a1a63
+Q
+!Programmers/LV.2/귤 고르기.py,6\5\65e63a6e81d43387a153b51550b166403943d3b0
+S
+#Baekjoon/Gold/별자리만들기.py,6\1\6165e12e3a9bf5e3d199e3c233a8429cfe21aaf9
