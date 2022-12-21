@@ -11,8 +11,6 @@ Q
 !Programmers/LV.2/소수 찾기.py,f\a\fae978b4089fd7fb79b9f55970e2a66abe137915
 P
  Programmers/LV.2/기능개발.py,0\0\0077da722d596b4de611e7fee3c8738188772dfe
-S
-#.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0
 T
 $Programmers/LV.2/올바른 괄호.py,0\2\02f83b6fd72d1c3c2529431198215594a8e7282b
 P
@@ -51,13 +49,3 @@ J
 Programmers/LV.1/words.txt,a\0\a060fc66e666f29bbfad0d4145110fc62dd19800
 X
 (Programmers/LV.2/단체사진 찍기.cpp,c\8\c8c733913619063268e96077466dcd3f0b8a11ea
-[
-+Programmers/LV.2/숫자 카드 나누기.py,a\e\aea5a4c99e05e8b4e9aeff0bcbe8413f9fd6bd8f
-P
- Programmers/LV.2/조이스틱.py,4\6\464693d8bdddeb723ba9f351d6af8d5a1345edfa
-Z
-*Programmers/LV.2/조이스틱_타풀이.py,3\0\3021b086d26b7ed5f640e38f783e51dcc98a1a63
-Q
-!Programmers/LV.2/귤 고르기.py,6\5\65e63a6e81d43387a153b51550b166403943d3b0
-S
-#Baekjoon/Gold/별자리만들기.py,6\1\6165e12e3a9bf5e3d199e3c233a8429cfe21aaf9
