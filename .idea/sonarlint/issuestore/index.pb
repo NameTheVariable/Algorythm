@@ -49,3 +49,6 @@ J
 Programmers/LV.1/words.txt,a\0\a060fc66e666f29bbfad0d4145110fc62dd19800
 X
 (Programmers/LV.2/단체사진 찍기.cpp,c\8\c8c733913619063268e96077466dcd3f0b8a11ea
+:
+
+README.txt,f\d\fda3484edf8db0684440157ce0b110d784d42704
