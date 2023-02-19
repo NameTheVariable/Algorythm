@@ -52,3 +52,23 @@ X
 :
 
 README.txt,f\d\fda3484edf8db0684440157ce0b110d784d42704
+[
++Programmers/LV.2/숫자 카드 나누기.py,a\e\aea5a4c99e05e8b4e9aeff0bcbe8413f9fd6bd8f
+P
+ Programmers/LV.2/조이스틱.py,4\6\464693d8bdddeb723ba9f351d6af8d5a1345edfa
+Z
+*Programmers/LV.2/조이스틱_타풀이.py,3\0\3021b086d26b7ed5f640e38f783e51dcc98a1a63
+Q
+!Programmers/LV.2/귤 고르기.py,6\5\65e63a6e81d43387a153b51550b166403943d3b0
+S
+#Baekjoon/Gold/별자리만들기.py,6\1\6165e12e3a9bf5e3d199e3c233a8429cfe21aaf9
+S
+#Programmers/LV.2/파일명정렬.py,c\9\c9548a37b8f1b122b57f62e4c110d42bea92ba3c
+T
+$LeetCode/Medium/Number of Islands.py,9\d\9d57e4cd8a90f563915146a068de50d129ce7275
+O
+LeetCode/Medium/valid sudoku.py,f\b\fb153d7d7ebf3be9638219e9d9d975a3af673c5b
+S
+#.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0
+z
+JLeetCode/Medium/Find First and Last Position of Element in Sorted Array.py,0\5\05582fed0ee9852b13b23da925cb815dc4b049d8
