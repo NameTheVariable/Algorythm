@@ -4,7 +4,10 @@ def solution(players, callings):
     #   players[i].swap(callings)
     # resturn answer
     answer = []
-    for i in callings:
-        index = players.index[i]
-        players[index], players[index-1] = players[index-1], players[index]
+    result = {players: i for i, players in enumerate(players)}
+    for who in callings:
+        idx = result[who]
+        result[who] -= 1
+        result[players[idx-1]] += 1
+        players[idx-1], players[idx] = players[idx], players[idx-1]
     return players
