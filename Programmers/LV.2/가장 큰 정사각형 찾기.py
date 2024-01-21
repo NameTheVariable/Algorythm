@@ -1,7 +1,7 @@
 def solution(board):
     # 행과 열의 길이
     rows, cols = len(board), len(board[0])
-
+ 
     # 2차원 DP 배열 초기화
     dp = [[0] * cols for _ in range(rows)]
 
