@@ -12,8 +12,8 @@ def solution(sequence, k):
     #   if element[i] + element[i+1] == k
     #       result.append(element[i], element[i+1])
     # answer = result[0].index, result[result.length].index
-    for i in n:
-        while limit_sum < k and end < n:
+    #for i in n:
+        #while limit_sum < k and end < n:
             
-    answer = result[0].index, result[-1].index
-    return answer
+        #answer = result[0].index, result[-1].index
+    #return answer
