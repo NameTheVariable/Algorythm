@@ -10,7 +10,7 @@ def solution(board):
         dp[i][0] = board[i][0]
 
     for j in range(cols):
-        dp[0][j] = board[0][j]
+        dp[0][j] = board[0][j] 
 
     # 동적 프로그래밍을 통한 정사각형 크기 갱신
     for i in range(1, rows):
